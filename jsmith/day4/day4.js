@@ -11,7 +11,7 @@ class Character {
   this.id = characterList.length + 1000;
   this.name= name
   this.race= race
-  this.profession= profession 
+  this.profession= profession
   this.equipment= {
     head: {},
     chest: {},
